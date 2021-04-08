@@ -17,4 +17,4 @@ I am not associated with Anedot or any of the various external services referenc
 
 ## Official Documentation
 
-(Official Documentation)[https://help.anedot.com/knowledge/webhooks]
+[Official Documentation](https://help.anedot.com/knowledge/webhooks)
